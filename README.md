@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/white-horse/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: White Horse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/white-horse/) |
+| **Get License** | [Request Licensing for White Horse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/white-horse/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8b37b2469f8fae71c504516477a67983cbc15f7a0465248c9934d3ff947383ab` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - White Horse
+
+This log tracks the cryptographic history and versioning for the song **White Horse** (white-horse).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:06:54.178418 | `v1` | `8b37b2469f8fae71c504516477a67983cbc15f7a0465248c9934d3ff947383ab` | `f8b5b2e6a5d09fe715eef4367cbd26a569a7dd09236d2470c41fd152d56b4c74` | `2026-05-23_white-horse-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
