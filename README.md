@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/white-horse/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for White Horse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/white-horse/) |
+| **Get License** | [License this song: White Horse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/white-horse/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see the moonlight dancing in your eyes
+> We got nowhere to be and endless time
+> Let down your hair and let the world rewind
+> Just you and me beneath the starry skies
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
